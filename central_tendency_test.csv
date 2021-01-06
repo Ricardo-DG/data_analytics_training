@@ -1,0 +1,11 @@
+Questions,Answers
+"What is the mean of the following data set? [1,2,5,4,7,7,1,1,4,2]",3.4
+"What is the mode of the following data set? [1,2,5,4,7,7,1,1,4,2]",1
+"What is the median of the following data set? [1,2,5,4,7,7,1,1,4,2]",3
+"The average from a dataset is known as: 0-Mode, 1-Median, 2-Mean",2
+"The most frequent element in a dataset in known as: 0-Mode, 1-Median, 2-Mean",0
+"The central element on a dataset that is ordered is known as:  0-Mode, 1-Median, 2-Mean",1
+"For visualization of mean you can use: 0-Boxplots. 1-Barplots, 2-Distplot,1D or 2D plots",2
+"For visualization of median you can use: 0-Boxplots. 1-Barplots, 2-Distplot,1D or 2D plots",0
+"For visualization of mode you can use: 0-Boxplots. 1-Barplots, 2-Distplot,1D or 2D plots",1
+"The central tendency measures summarizes the: 0-Whole dataset, 1-Distribution of dataset",0
