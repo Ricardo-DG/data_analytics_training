@@ -1,0 +1,11 @@
+Questions,Answers
+"What is the range of the following data set? [1,2,5,4,7,7,1,1,4,2]",6
+"What is the standard deviation of the following data set? [1,2,5,4,7,7,1,1,4,2]",2.24
+"What is the variance of the following data set? [1,2,5,4,7,7,1,1,4,2]",5.04
+"The difference between the limit values from a dataset is known as: 0-Range, 1-Std, 2-Variance",0
+"The average of the squared differences between the mean and each data point from a dataset is known as: 0-Range, 1-Std, 2-Variance",2
+"The squared average of the squared differences between the mean and each data point from a dataset is known as: 0-Range, 1-Std, 2-Variance",1
+"For visualization of std you should preferably use: 0-Boxplots. 1-Barplots, 2-Distplot, histogram",2
+"For visualization of range you can use: 0-Boxplots,1D,2D plots. 1-Barplots, 2-Distplot",0
+"For visualization of variance you can use: 0-Boxplots. 1-Barplots, 2-Distplot, histogram",2
+"The dispersion measures summarizes the: 0-Whole dataset, 1-Distribution of dataset",1
