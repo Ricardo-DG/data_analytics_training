@@ -1,0 +1,11 @@
+Questions,Answers
+"When you apply z-score you always get a dataset with standard deviation = 0 and mean = 1.        0-False, 1-True",0
+"When you apply mean normalization your dataset always ends up having negative values. 0-False, 1-True",1
+"You can end up with the same dataset obtained with zscore or mean norm using minmax if you have: 0-Mean of resulting dataset, 1-Std of resulting dataset. 2 -Min and max values of resulting dataset. 3-It is not possible.",2
+"The limits of minmax normalization are always [0,1]: 0-False, 1-True",0
+"The z-score normalization contains variables so user can modify the final dataset to the required needs: 0-False, 1-True",0
+"There are two versions of minmax equations. 0-False, 1-True",1
+"The mean normalization contains variables so user can modify the final dataset to the required needs: 0-False, 1-True",0
+"In minmax you can define the limits as desired: 0-False, 1-True",1
+"The minmax normalization equation (complex one) contains variables so user can modify the final dataset to the required needs: 0-False, 1-True",1
+"Normalization methods are useful to: 0-Limit values, 1-Compare datasets, 2-Increase performance in ML, 3-All previous answers",3
