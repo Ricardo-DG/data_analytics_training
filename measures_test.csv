@@ -2,10 +2,10 @@ Questions,Answers
 "Statistical measures (Sensitivity, specificity, . . . ) are useful for:                            0-Know the distribution of data, 1-Know how good is a classifier, 2-Have a summary of your dataset",1
 "TP is when your classifier says the result is True and your ground truth says it is:                           0-False, 1-True",1
 "FP is when your classifier says the result is False and your ground truth says it is True.                              0-False, 1-True",0
-"TP+(TP+FP) is:           0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",3
-"TP+(TP+FN) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",0
-"TN+(TN+FP) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",1
-"(TP+TN)+(TP+TN+FP+FN) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",2
+"TP/(TP+FP) is:           0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",3
+"TP/(TP+FN) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",0
+"TN/(TN+FP) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",1
+"(TP+TN)/(TP+TN+FP+FN) is:          0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",2
 "When you have a critical application and True results are preferred you must look to:       0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",0
 "When you have a critical application and False results are preferred you must look to:       0-Sensitivity, 1-Specificity, 2-Accuracy, 3-Precision",1
 "To plot the ROC curve you use:        0-Accuracy (x) vs Recall (y),         1- Sensitivity (x) vs Specificity (y),               2-Precision (x) vs Recall (y)      3-  (1-Specificity) (x) vs Sensitivity (y)",3
